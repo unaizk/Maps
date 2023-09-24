@@ -1,6 +1,6 @@
 
 // Instruction to every other classes on how they can be argument to "addMarker()"
-interface Mappable {
+export interface Mappable {
     location:{
         lat : number,
         lng : number
