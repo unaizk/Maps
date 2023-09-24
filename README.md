@@ -14,7 +14,7 @@ This project serves as a simple demonstration of TypeScript, showcasing the inte
 
 2. Add your API key to the `index.html` file.
    
-   "<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap" async defer></script>"
+   "<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback==Function.prototype"></script>"
 
 ## Fake Data Generation
 
